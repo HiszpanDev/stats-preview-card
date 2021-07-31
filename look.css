@@ -120,8 +120,13 @@ color: hsl(228, 45%, 44%);
         border-radius:0px 10px 10px 0px;
     }
 
+    .container h1{
+        text-align:left;
+        margin-left:50px;
+    }
     .container ul{
         display:flex;
+        margin-right:60px;
         justify-content:center;
     }
 
@@ -129,17 +134,17 @@ color: hsl(228, 45%, 44%);
         text-align:left;
         padding:0px;
         margin:0px;
-        font-size:25px;
+        font-size:30px;
     }
     
     .container li{
         padding:15px;
-        font-size:15px;
+        font-size:13px;
     }
     
     .container p{
         text-align:left;
-        margin-left:10px;
+        margin-left:20px;
         margin-top:20px;
     }
 
