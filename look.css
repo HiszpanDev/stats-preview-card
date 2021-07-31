@@ -65,7 +65,7 @@ font-family:'Inter',sans-serif;
     color:hsla(0, 0%, 100%, 0.6);
 }
 
-#stats{
+.stats{
     font-size:30px;
     color:hsl(0, 0%, 100%);
     font-weight:600;
@@ -125,7 +125,7 @@ color: hsl(228, 45%, 44%);
         justify-content:center;
     }
 
-    #stats{
+    .stats{
         text-align:left;
         padding:0px;
         margin:0px;
