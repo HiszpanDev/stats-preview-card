@@ -123,6 +123,7 @@ color: hsl(228, 45%, 44%);
     .container h1{
         text-align:left;
         margin-left:50px;
+        margin-right:40px;
     }
     .container ul{
         display:flex;
@@ -146,6 +147,7 @@ color: hsl(228, 45%, 44%);
         text-align:left;
         margin-left:20px;
         margin-top:20px;
+        margin-right:40px;
     }
 
 }
