@@ -141,6 +141,7 @@ color: hsl(228, 45%, 44%);
     .container li{
         padding:15px;
         font-size:13px;
+        
     }
     
     .container p{
@@ -148,6 +149,10 @@ color: hsl(228, 45%, 44%);
         margin-left:20px;
         margin-top:20px;
         margin-right:40px;
+    }
+    
+    #queries{
+        margin-right:20px;
     }
 
 }
